@@ -23,5 +23,6 @@ Open folder in your texteditor, Pesonnaly l prefer VSCode
 create files in VsCode with .php and .html extensions then copy code from github and paste it in those files, save them in the folder created
 go to your browser and tape >localhost/bus project/login.html
 if you aren't a member, create an account
-Technologies
+## Technologies
+
 Project is created with: PHP , HTML, CSS
